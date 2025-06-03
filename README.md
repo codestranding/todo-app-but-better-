@@ -31,4 +31,4 @@ Watch the full video walkthrough here:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/CodeStranding/todo-app-but-better
+   git clone https://github.com/codestranding/todo-app-but-better-.git
